@@ -4,3 +4,6 @@
 [submodule "responsive-web-design/camperbot-profile-page"]
 	path = responsive-web-design/camperbot-profile-page
 	url = https://github.com/hbbymth42/camperbot-profile-page
+[submodule "responsive-web-design/pet-adoption-page"]
+	path = responsive-web-design/pet-adoption-page
+	url = https://github.com/hbbymth42/pet-adoption-page
