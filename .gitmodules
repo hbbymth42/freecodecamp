@@ -1,3 +1,6 @@
 [submodule "responsive-web-design/curriculum-outline"]
 	path = responsive-web-design/curriculum-outline
 	url = https://github.com/hbbymth42/curriculum-outline
+[submodule "responsive-web-design/camperbot-profile-page"]
+	path = responsive-web-design/camperbot-profile-page
+	url = https://github.com/hbbymth42/camperbot-profile-page
