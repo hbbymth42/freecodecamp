@@ -10,3 +10,6 @@
 [submodule "responsive-web-design/cat-photo-app"]
 	path = responsive-web-design/cat-photo-app
 	url = https://github.com/hbbymth42/cat-photo-app
+[submodule "responsive-web-design/recipe-page"]
+	path = responsive-web-design/recipe-page
+	url = https://github.com/hbbymth42/recipe-page/
