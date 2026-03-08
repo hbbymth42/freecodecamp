@@ -16,3 +16,6 @@
 [submodule "responsive-web-design/bookstore-page"]
 	path = responsive-web-design/bookstore-page
 	url = https://github.com/hbbymth42/bookstore-page/
+[submodule "responsive-web-design/travel-agency-page"]
+	path = responsive-web-design/travel-agency-page
+	url = https://github.com/hbbymth42/travel-agency-page
