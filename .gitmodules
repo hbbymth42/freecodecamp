@@ -19,3 +19,6 @@
 [submodule "responsive-web-design/travel-agency-page"]
 	path = responsive-web-design/travel-agency-page
 	url = https://github.com/hbbymth42/travel-agency-page
+[submodule "responsive-web-design/html-music-player"]
+	path = responsive-web-design/html-music-player
+	url = https://github.com/hbbymth42/html-music-player
