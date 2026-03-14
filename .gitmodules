@@ -22,3 +22,6 @@
 [submodule "responsive-web-design/html-music-player"]
 	path = responsive-web-design/html-music-player
 	url = https://github.com/hbbymth42/html-music-player
+[submodule "responsive-web-design/html-video-player"]
+	path = responsive-web-design/html-video-player
+	url = https://github.com/hbbymth42/html-video-player
