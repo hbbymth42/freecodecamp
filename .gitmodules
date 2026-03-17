@@ -34,3 +34,6 @@
 [submodule "responsive-web-design/video-display-iframe"]
 	path = responsive-web-design/video-display-iframe
 	url = https://github.com/hbbymth42/video-display-iframe
+[submodule "responsive-web-design/video-compilation-page"]
+	path = responsive-web-design/video-compilation-page
+	url = https://github.com/hbbymth42/video-compilation-page
